@@ -10,6 +10,11 @@
 
 ---
 
+### 🌍 Languages I Speak  
+- 🇲🇽 **Spanish** (Native)  
+- 🇺🇸 **English** (Professional)  
+- 🇫🇷 **French** (Intermediate)
+
 ### 🌐 Connect with me  
 <p align="left">
   <a href="https://linkedin.com/in/s4qk" target="blank">
