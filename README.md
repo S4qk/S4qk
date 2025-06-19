@@ -57,9 +57,9 @@
 ---
 
 ### 🚀 Pinned Projects
-<!-- Puedes usar la plantilla de GitHub para pinnearlos desde la interfaz web -->
-
----
+- [🔎 Flight Status Prediction](https://github.com/Diegomca98/flight-status-prediction)  
+  Developed a predictive model using 60,000+ U.S. flight records to classify flight status, including delays and cancellations.  
+  `Python · Scikit-learn · Pandas · Machine Learning · Classification`
 
 ### 📫 Contact
 - 📧 **bacterya@protonmail.ch**
