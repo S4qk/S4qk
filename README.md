@@ -119,10 +119,7 @@ Classification model over 60,000+ U.S. flight records predicting delays and canc
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s4qk&theme=gruvbox" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=s4qk&theme=gruvbox" height="165"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=s4qk&theme=gruvbox&hide_border=true&area=true"/>
 
 ---
 
